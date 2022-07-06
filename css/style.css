@@ -39,7 +39,7 @@
 
 body {
     color: #000;
-    font-size: 12px;
+    font-size: 62.5%;
     line-height: 1.4;
     font-family: Helvetica, Arial, sans-serif;
 }
@@ -150,3 +150,16 @@ body{
 .hidden{
 	display: none;
 }
+
+.drinkDisplay{
+  display: flex;
+  justify-content: center;
+}
+
+img{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  size: 25 rem;
+}
+
